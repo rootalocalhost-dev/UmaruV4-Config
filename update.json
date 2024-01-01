@@ -1,3 +1,7 @@
 {
-  "https://pastebin.com/raw/fXKXyyw3":"/system/umaru.js"
+  "https://raw.githubusercontent.com/rootalocalhost-dev/UmaruV4-Config/main/changelog.txt":"/system/umaru.js",
+   "https://raw.githubusercontent.com/rootalocalhost-dev/UmaruV4-Config/main/changelog.txt":"/system/lib/Dashboard/index.js",
+    "https://raw.githubusercontent.com/rootalocalhost-dev/UmaruV4-Config/main/changelog.txt":"/system/lib/core.js",
+    "https://raw.githubusercontent.com/rootalocalhost-dev/UmaruV4-Config/main/changelog.txt":"/system/lib/engine.js",
+    "https://pastebin.com/raw/TGWRKEmR": "/package.json"
 }
